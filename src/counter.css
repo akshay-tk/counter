@@ -1,0 +1,28 @@
+.app{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.heading{
+    font-size: 30px;
+    
+}
+
+.app-body{
+    gap: 10px;
+    height:400px;
+    width:600px;
+background-color: peachpuff;
+    display:flex;
+   flex-direction: row; 
+    color:black;
+    align-items: center;
+    justify-content: center;
+}
+
+button{
+    background-color: brown;
+    width: 100px;
+    height: 50px; 
+}
